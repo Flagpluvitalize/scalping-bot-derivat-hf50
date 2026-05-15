@@ -1,4 +1,4 @@
-# 
+# best scalping bot for derivatives Plugin | webhook-support + price-monitoring offers the most advanced scalping bot for derivatives, with webhook-support and price-monitoring.
 
 
 
